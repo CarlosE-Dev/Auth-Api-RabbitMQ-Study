@@ -1,0 +1,15 @@
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\bin\Debug\net7.0\Auth.UserActivity.Infra.deps.json
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\bin\Debug\net7.0\Auth.UserActivity.Infra.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\bin\Debug\net7.0\Auth.UserActivity.Infra.pdb
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\bin\Debug\net7.0\Auth.UserActivity.Domain.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\bin\Debug\net7.0\Auth.UserActivity.Domain.pdb
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.csproj.AssemblyReference.cache
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.AssemblyInfoInputs.cache
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.AssemblyInfo.cs
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.csproj.CoreCompileInputs.cache
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.csproj.CopyComplete
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\refint\Auth.UserActivity.Infra.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\Auth.UserActivity.Infra.pdb
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Infra\obj\Debug\net7.0\ref\Auth.UserActivity.Infra.dll

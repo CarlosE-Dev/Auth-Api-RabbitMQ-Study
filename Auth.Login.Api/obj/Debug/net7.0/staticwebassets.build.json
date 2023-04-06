@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OCttSaz511kNYfdnN1EaAiaiH+iNuZd5QDtj8iOZ/Dg=",
+  "Source": "Auth.Login.Api",
+  "BasePath": "_content/Auth.Login.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8vhG1Hp56BCLRRwkykw+eSrHBMF0o992vWTHqEv0JuHkzoLOMjQoI9YnxtoMipWzuaVhF+Rb4eaPAdv8kwfMg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Auth-With-MessageBroker\\Auth.Login\\Auth.Login.Domain\\Auth.Login.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

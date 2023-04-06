@@ -1,0 +1,12 @@
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\bin\Debug\net7.0\Auth.UserActivity.Domain.deps.json
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\bin\Debug\net7.0\Auth.UserActivity.Domain.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\bin\Debug\net7.0\Auth.UserActivity.Domain.pdb
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.csproj.AssemblyReference.cache
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.AssemblyInfoInputs.cache
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.AssemblyInfo.cs
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\refint\Auth.UserActivity.Domain.dll
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\Auth.UserActivity.Domain.pdb
+C:\Dev\Auth-With-MessageBroker\Auth.Login\Auth.UserActivity.Domain\obj\Debug\net7.0\ref\Auth.UserActivity.Domain.dll
